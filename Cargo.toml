@@ -4,6 +4,10 @@ name = "clinews"
 version = "0.1.0"
 edition = "2021"
 
+description = "A simple cli reader app"
+license = "MIT"
+authors = ["rockcoolsaint"]
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
